@@ -1,1 +1,3 @@
 # Aerofit-Project
+
+This project aims to support AeroFit’s market research team in identifying the key characteristics of the target audience for each type of treadmill offered by the company. By performing descriptive analytics, the project will create detailed customer profiles for the KP281, KP481, and KP781 treadmill models. The analysis will include developing tables and charts that visually represent customer demographics and purchasing behaviors. For each treadmill product, two-way contingency tables will be constructed, and conditional and marginal probabilities will be calculated to uncover patterns and insights. These insights will enable AeroFit to provide tailored treadmill recommendations to new customers, enhancing customer satisfaction and driving sales.
